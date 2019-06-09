@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 import 'normalize.css/normalize.css';
 import './styles/styles.scss';
 
-import Home from './components/Home';
+import AppRouter from './routers/AppRouter';
 
 
-ReactDOM.render(<Home />, document.getElementById('app'));
+ReactDOM.render(<AppRouter />, document.getElementById('app'));
