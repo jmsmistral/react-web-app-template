@@ -1,2 +1,3 @@
-# react-web-app-template
-A template for kick-starting react web applications
+# React Web App Template
+
+A template for kick-starting react web applications.
