@@ -1,10 +1,19 @@
 import React from 'react';
+import {
+  Container, Row, Col
+} from 'react-bootstrap';
+
 
 const Home = () => (
-  <div>
-    <div className="container">
-      <h2>Welcome to the home page!</h2>
-    </div>
+  <div className="home-page">
+
+    <Container className="home-page-large-screen">
+      <Row className="h-100">
+        <Col xs={12} className="align-self-center">
+        <h1 className="banner__title fadein-banner">Welcome to this sample react web app template!</h1>
+        </Col>
+      </Row>
+    </Container>
   </div>
 );
 
