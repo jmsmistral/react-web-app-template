@@ -1,5 +1,3 @@
-# jonathansacramento.com
+# React Web App Template
 
-[![Build Status](https://travis-ci.org/jmsmistral/jonathansacramento.com.svg?branch=master)](https://travis-ci.org/jmsmistral/jonathansacramento.com)
-
-My personal website!
+Fork this repo to start a new react web app project! :)
